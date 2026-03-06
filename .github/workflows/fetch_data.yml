@@ -21,7 +21,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install pytrends requests
+     run: pip install pytrends==4.9.2 requests urllib3==1.26.18
 
       - name: Fetch data
         env:
