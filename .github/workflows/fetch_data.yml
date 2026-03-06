@@ -24,7 +24,7 @@ jobs:
         run: pip install requests
 
       - name: Fetch data
-       env:
+        env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: python fetch_data.py
