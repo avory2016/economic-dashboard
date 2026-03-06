@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T20:34:43.394501Z",
+  "last_updated": "2026-03-06T20:54:20.979921Z",
   "timeframe": "today 3-m",
   "categories": {
     "jobs": {
@@ -36,7 +36,7 @@
   "fred": {
     "ICSA": {
       "label": "Initial Jobless Claims",
-      "units": "Claims (thousands)",
+      "units": "Thousands",
       "dates": [
         "2023-01-07",
         "2023-01-14",
@@ -463,7 +463,7 @@
       "trend_direction": "up"
     },
     "CPIAUCSL": {
-      "label": "CPI Inflation (All Items)",
+      "label": "CPI Inflation",
       "units": "Index",
       "dates": [
         "2023-01-01",
@@ -547,7 +547,7 @@
       "trend_direction": "up"
     },
     "UMCSENT": {
-      "label": "Consumer Sentiment (U of M)",
+      "label": "Consumer Sentiment",
       "units": "Index",
       "dates": [
         "2023-01-01",
@@ -633,7 +633,7 @@
       "trend_direction": "up"
     },
     "MORTGAGE30US": {
-      "label": "30-Year Mortgage Rate",
+      "label": "30-Yr Mortgage Rate",
       "units": "%",
       "dates": [
         "2023-01-05",
@@ -978,7 +978,7 @@
     },
     "HOUST": {
       "label": "Housing Starts",
-      "units": "Thousands of Units",
+      "units": "K Units",
       "dates": [
         "2023-01-01",
         "2023-02-01",
@@ -1062,7 +1062,7 @@
     },
     "RSAFS": {
       "label": "Retail Sales",
-      "units": "Millions $",
+      "units": "M $",
       "dates": [
         "2023-01-01",
         "2023-02-01",
@@ -1147,7 +1147,7 @@
       "trend_direction": "down"
     },
     "DRCCLACBS": {
-      "label": "Credit Card Delinquency Rate",
+      "label": "Credit Card Delinquency",
       "units": "%",
       "dates": [
         "2023-01-01",
