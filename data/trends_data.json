@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T13:58:07.211312Z",
+  "last_updated": "2026-07-03T14:01:34.569666Z",
   "timeframe": "today 12-m",
   "categories": {
     "jobs": {
@@ -1790,7 +1790,8 @@
         "2026-06-04",
         "2026-06-11",
         "2026-06-18",
-        "2026-06-25"
+        "2026-06-25",
+        "2026-07-02"
       ],
       "values": [
         4.51,
@@ -2183,12 +2184,13 @@
         6.48,
         6.52,
         6.47,
-        6.49
+        6.49,
+        6.43
       ],
-      "latest": 6.49,
-      "prev": 6.47,
-      "pct_change": 0.31,
-      "trend_direction": "up"
+      "latest": 6.43,
+      "prev": 6.49,
+      "pct_change": -0.92,
+      "trend_direction": "down"
     },
     "HOUST": {
       "label": "Housing Starts",
